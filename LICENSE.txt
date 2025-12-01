@@ -1,5 +1,6 @@
-Copyright (c) 2022 - 2025 Brenton James Maddocks BEng(CompSys).
-All rights reserved.
+Avril FSD - Request, Wait & Write-Enable For Threads At Stacks Library.
+Copyright (c) 2022 - 2025 Brenton James Maddocks BEng(CompSys). 
+All Rights Reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:

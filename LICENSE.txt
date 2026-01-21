@@ -1,4 +1,4 @@
-Florence FSD - Concurrent (Multi-Threaded) Event Driven Server Assembly Library.
+Avril Concurrency wtih FSD - Concurrent (Multi-Threaded) Event Driven Server Assembly Library.
 Copyright (c) 2022 - 2025 Brenton James Maddocks BEng(CompSys).  
 All rights reserved.
 

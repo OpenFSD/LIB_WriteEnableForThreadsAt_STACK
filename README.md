@@ -15,9 +15,6 @@ Version: 24H2
 
 Version 17.13.4
 
-## TestBench
- - 
-
 ## Using
 ### C++
 #### LIB_WriteEnableForThreadsAt_SERVERINPUTACTION.h
